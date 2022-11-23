@@ -1,3 +1,6 @@
 title: Home
 description: This is a wonderful website full of great stuff!
 theme: minima
+
+minima:
+  skin: dark
