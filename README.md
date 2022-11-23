@@ -1,2 +1,2 @@
 # Welcome to my website!
-- [My favourite music albmus](my_favourite_music_albmus.md)
+- [My favourite music albums](my_favourite_music_albmums.md)
