@@ -1,6 +1,12 @@
-title: Home
-description: This is a wonderful website full of great stuff!
-theme: minima
+title: Andrea's website!
+#description:
 
 minima:
   skin: dark
+
+# build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
