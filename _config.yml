@@ -1,12 +1,5 @@
 title: Andrea's website!
 #description:
 
-minima:
-  skin: dark
-
 # build settings
 theme: minima
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
