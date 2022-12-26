@@ -1,3 +1,13 @@
+# Music
+
+## My music projects
+
+- [Full Body Poster](https://fullbodyposter.bandcamp.com/)
+- [Echo Mostro](https://echomostro.bandcamp.com/)
+
+
+## My favourite music albums
+
 | Year | Album                                 | Artist                           |
 | ---- | ------------------------------------- | -------------------------------- |
 | 2022 | Motomami                              | Rosalía                          |

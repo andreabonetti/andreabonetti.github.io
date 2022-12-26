@@ -1,1 +1,2 @@
-- [My favourite music albums](my_favourite_music_albums.md)
+- [Projects](projects.md)
+- [Music](music.md)
