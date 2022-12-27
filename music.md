@@ -1,4 +1,8 @@
-# Music
+---
+layout: page
+title: Music
+permalink: /music/
+---
 
 ## My music projects
 

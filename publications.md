@@ -1,4 +1,9 @@
-# Publications
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 
 ## Journal Papers
 - P. Jokic, E. Azarkhish, **A. Bonetti**, M. Pons, S. Emery, and L. Benini, "A Construction Kit for Efficient Low Power Neural Network Accelerator Designs", *ACM TECS 2022*.
