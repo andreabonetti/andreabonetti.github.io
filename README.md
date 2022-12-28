@@ -1,10 +1,5 @@
-Hi there!
+# andreabonetti.github.io
 
-I am **Andrea Bonetti**, Senior R&D Engineer at CSEM, Switzerland.
-
-What you will find here on my personal website:
-- [Projects](projects.md)
-- [Publications](publications.md)
-- [Music](music.md)
-
-If you want to contact me, please write an email to [andrea.bonetti@alumni.epfl.ch ](mailto:andrea.bonetti@alumni.epfl.ch)
+Source code of https://andreabonetti.github.io/
+- Based on [minima](https://github.com/jekyll/minima)
+- `home.html` of [minima](https://github.com/jekyll/minima) has been overwritten with `page.html`
