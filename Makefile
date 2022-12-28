@@ -15,3 +15,5 @@ serve-gemfile:
 open:
 	open http://localhost:4000/
 
+all: open serve-gemfile build clean
+
