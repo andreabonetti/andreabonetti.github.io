@@ -4,8 +4,8 @@ author:
   #name: andreabonetti
   email: andrea.bonetti@alumni.epfl.ch
 
-description: > # this means to ignore newlines until "show_excerpts:"
-  My personal website
+#description: > # this means to ignore newlines until "show_excerpts:"
+#  My personal website
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
