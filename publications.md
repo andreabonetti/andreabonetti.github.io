@@ -18,7 +18,6 @@ permalink: /publications/
 
 ## Conference Papers
 - E. M. Calvo, P. Renevey, M. Lemay, **A. Bonetti**, M. Pons Solé, R. Cattenoz, S. Eméry, and R. Delgado-Gonzalo, "Ultra-low-power Physical Activity Classifier for Wearables: From Generic MCUs to ASICs". *IEEE EMBC 2021*.
-
 - J. Narinx, R. Giterman, **A. Bonetti**, N. Frigerio, C. Aprile, A. Burg, and Y. Leblebici, "A 24 kb Single-Well Mixed 3T Gain-Cell eDRAM with Body-Bias in 28 nm FD-SOI for Refresh-Free DSP Applications". *IEEE ASSCC 2019*.
 - M. Widmer, **A. Bonetti**, and A. Burg, "FPGA-Based Emulation of Embedded DRAMs for Statistical Error Resilience Evaluation of Approximate Computing Systems ". *Design Automation Conference (DAC) 2019*.
 - Ester Vicario Bravo, **A. Bonetti**, and A. Burg, "Data-Retention-Time Characterization of Gain-Cell eDRAMs across the Design and Variations Space". *IEEE ISCAS 2019*.
