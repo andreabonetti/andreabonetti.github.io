@@ -10,7 +10,7 @@ layout: home
 
 Hi there!
 
-I am **Andrea Bonetti**, Senior R&D Engineer at CSEM, Switzerland.
+I am **Andrea Bonetti**, Senior Research Scientist at Sony AI, Switzerland.
 
 What you will find here on my personal website:
 - [Projects](projects.md)
