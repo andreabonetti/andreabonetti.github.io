@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 ## Papers
-- S. Uhlich, A. Bonetti, A. Venkitaramanm, A. Momeni, R. Matsuo, C. Hsieh, E. Ohbuchi, L. Servadei, "GraCo - A Graph Composer for Integrated Circuits". *arXiv 2024*.
-- R. Matsuo, S. Uhlich, A. Venkitaraman, A. Bonetti, C. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *arXiv 2024*.
+- S. Uhlich, **A. Bonetti**, A. Venkitaramanm, A. Momeni, R. Matsuo, C. Hsieh, E. Ohbuchi, L. Servadei, "GraCo - A Graph Composer for Integrated Circuits". *arXiv 2024*.
+- R. Matsuo, S. Uhlich, A. Venkitaraman, **A. Bonetti**, C. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *arXiv 2024*.
 - P. Jokic, E. Azarkhish, **A. Bonetti**, M. Pons, S. Emery, and L. Benini, "A Construction Kit for Efficient Low Power Neural Network Accelerator Designs". *ACM TECS 2022*.
 - E. M. Calvo, P. Renevey, M. Lemay, **A. Bonetti**, M. Pons Solé, R. Cattenoz, S. Eméry, and R. Delgado-Gonzalo, "Ultra-low-power Physical Activity Classifier for Wearables: From Generic MCUs to ASICs". *IEEE EMBC 2021*.
 - **A. Bonetti**, R. Golman, R. Giterman, A. Teman, and A. Burg, "Gain-Cell Embedded DRAMs: Modeling and Design Space". *IEEE TVLSI 2020*.
