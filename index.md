@@ -10,7 +10,7 @@ layout: home
 
 Hi there!
 
-I am **Andrea Bonetti**, Senior Research Scientist at Sony AI, Switzerland.
+I am **Andrea Bonetti**, Staff Research Scientist at Sony AI, Switzerland.
 
 What you will find here on my personal website:
 - [Projects](projects.md)
