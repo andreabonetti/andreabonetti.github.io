@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 ## Papers
-- S. Uhlich, **A. Bonetti**, A. Venkitaramanm, A. Momeni, R. Matsuo, C. Hsieh, E. Ohbuchi, L. Servadei, "GraCo - A Graph Composer for Integrated Circuits". *arXiv 2024*.
-- R. Matsuo, S. Uhlich, A. Venkitaraman, **A. Bonetti**, C. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *arXiv 2024*.
 - P. Jokic, E. Azarkhish, **A. Bonetti**, M. Pons, S. Emery, and L. Benini, "A Construction Kit for Efficient Low Power Neural Network Accelerator Designs". *ACM TECS 2022*.
 - E. M. Calvo, P. Renevey, M. Lemay, **A. Bonetti**, M. Pons Solé, R. Cattenoz, S. Eméry, and R. Delgado-Gonzalo, "Ultra-low-power Physical Activity Classifier for Wearables: From Generic MCUs to ASICs". *IEEE EMBC 2021*.
 - **A. Bonetti**, R. Golman, R. Giterman, A. Teman, and A. Burg, "Gain-Cell Embedded DRAMs: Modeling and Design Space". *IEEE TVLSI 2020*.
@@ -30,6 +28,12 @@ permalink: /publications/
 
 ## Patents
 - **A. Bonetti**, J. P. Kulkarni, C. Tokunaga, M. Cho, P. A. Meinerzhagen, and M. M. Khellah, "Voltage Level Shifter Monitor with Tunable Voltage Level Shifter Replica Circuit". *U.S. Patent Application No. 10,243,563 issued on March 26, 2019*.
+
+## Preprints
+- S. Uhlich, **A. Bonetti**, A. Venkitaraman, C. Hsieh, M. Gürsoy, R. Matsuo, L. Servadei, "SpiceMixer -- Netlist-Level Circuit Evolution". *arXiv 2025*.
+- A. Momeni, S. Uhlich, A. Venkitaraman, C. Hsieh, A. Bonetti, R. Matsuo, E. Ohbuchi, L. Servadei, "Locality-aware Surrogates for Gradient-based Black-box Optimization". *arXiv 2025*.
+- S. Uhlich, **A. Bonetti**, A. Venkitaraman, A. Momeni, R. Matsuo, C. Hsieh, E. Ohbuchi, L. Servadei, "GraCo - A Graph Composer for Integrated Circuits". *arXiv 2024*.
+- R. Matsuo, S. Uhlich, A. Venkitaraman, **A. Bonetti**, C. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *arXiv 2024*.
 
 ## Talks
 - A. Teman, **A. Bonetti**, C. Müller, and A. Burg, “FD-SOI Standard Cell Characterization with Cadence Liberate”. *Cadence User Conference (CDNlive) Israel*, November 2016 (Best Paper Award).
