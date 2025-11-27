@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ## Papers
+- R. Matsuo, S. Uhlich, A. Venkitaraman, **A. Bonetti**, C.-Y. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *ACM/IEEE MLCAD 2025*.
+- P. Pham, A. Venkitaraman, C.-Y. Hsieh, **A. Bonetti**, S. Uhlich, M. Leibl, S. Hofmann, E. Ohbuchi, L. Servadei, U. Schlichtmann, R. Wille, "GENIE-ASI – Generative Instruction and Executable Code for Analog Subcircuit Identification". *ACM/IEEE MLCAD 2025*.
 - P. Jokic, E. Azarkhish, **A. Bonetti**, M. Pons, S. Emery, and L. Benini, "A Construction Kit for Efficient Low Power Neural Network Accelerator Designs". *ACM TECS 2022*.
 - E. M. Calvo, P. Renevey, M. Lemay, **A. Bonetti**, M. Pons Solé, R. Cattenoz, S. Eméry, and R. Delgado-Gonzalo, "Ultra-low-power Physical Activity Classifier for Wearables: From Generic MCUs to ASICs". *IEEE EMBC 2021*.
 - **A. Bonetti**, R. Golman, R. Giterman, A. Teman, and A. Burg, "Gain-Cell Embedded DRAMs: Modeling and Design Space". *IEEE TVLSI 2020*.
