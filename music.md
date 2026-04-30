@@ -6,6 +6,10 @@ permalink: /music/
 
 Here you can listen to some of my music projects:
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=949962149/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://rlsm.bandcamp.com/album/labisso-un-muro"> L&#39;abisso è un muro by RLSM</a></iframe>
+
+<br>
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2463840709/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fullbodyposter.bandcamp.com/album/le-ciel-sincline">Le ciel s&#39;incline by Full Body Poster</a></iframe>
 
 <br>
