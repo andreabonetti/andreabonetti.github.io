@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 - 🤖 **[monolm](https://github.com/andreabonetti/monolm)**: lightweight framework for running GGUF-based LLMs via llama.cpp 
-- 🎙️ **[nota](https://github.com/andreabonetti/nota)**: a private Telegram bot that transcribes voice messages and saves them as dated Markdown notes
+- 🎙️ **[nota](https://github.com/andreabonetti/nota)**: a private Telegram bot that transcribes voice messages into dated Markdown notes
 - ✨ **[ParseMind](https://github.com/andreabonetti/parsemind)**: LLM-powered parser that turns newsletters into clean, concise insights
 - 🎤 **[md-slides](https://github.com/andreabonetti/md-slides)**: create slides in markdown
 - 📚 **[md-doc](https://github.com/andreabonetti/md-doc)**: create documentation in markdown
