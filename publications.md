@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ## Papers
+- S. Uhlich, Y. Gencer, **A. Bonetti**, A. Venkitaraman, C.-Y. Hsieh, E. Ohbuchi, L. Servadei, "Spicing up Genetic Netlist Generation with LLMs". *ACM/IEEE MLCAD 2026*.
+- M. Leibl, F. Azevedo, S. Uhlich, **A. Bonetti**, A. Venkitaraman, C.-Y. Hsieh, P. Pham, L. Servadei, H. Graeb, R. Martins, "LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design". *ACM/IEEE MLCAD 2026* - **Best Artifact Award**.
+- P. Pham, A. Venkitaraman, S. Uhlich, C.-Y. Hsieh, **A. Bonetti**, M. Leibl, S. Hofmann, E. Ohbuchi, L. Servadei, U. Schlichtmann, R. Wille, "LASO-BOSS: LLM-driven Analog Sizing Optimization via Bayesian Optimization and Sizing Strategies". *ACM/IEEE MLCAD 2026*.
 - R. Matsuo, S. Uhlich, A. Venkitaraman, **A. Bonetti**, C.-Y. Hsieh, A. Momeni, L. Mauch, A. Capone, E. Ohbuchi, L. Servadei, "Schemato - An LLM for Netlist-to-Schematic Conversion". *ACM/IEEE MLCAD 2025*.
 - P. Pham, A. Venkitaraman, C.-Y. Hsieh, **A. Bonetti**, S. Uhlich, M. Leibl, S. Hofmann, E. Ohbuchi, L. Servadei, U. Schlichtmann, R. Wille, "GENIE-ASI – Generative Instruction and Executable Code for Analog Subcircuit Identification". *ACM/IEEE MLCAD 2025*.
 - P. Jokic, E. Azarkhish, **A. Bonetti**, M. Pons, S. Emery, and L. Benini, "A Construction Kit for Efficient Low Power Neural Network Accelerator Designs". *ACM TECS 2022*.
